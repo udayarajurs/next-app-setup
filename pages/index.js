@@ -10,3 +10,5 @@ const Index = () => {
 }
 
 export default Index;
+
+// What is page-sections? && rem 
