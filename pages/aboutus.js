@@ -1,12 +1,12 @@
 import React from 'react';
 import Navbar from '../components/layout-components/Navbar';
 
-const Index = () => {
+const AboutUs = () => {
   return (
    <React.Fragment>
-      <Navbar />
+     <div>Hello world!</div>
     </React.Fragment>
   );
 }
 
-export default Index;
+export default AboutUs;
