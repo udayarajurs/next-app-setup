@@ -13,13 +13,14 @@ import AddIcon from '@material-ui/icons/Add';
 
 const useStyles = makeStyles((theme) => ({
   uday: {
-        flexGrow: 1,
+    flexGrow: 1,
+   
     },
     text: {
         color: "white"
     },
   menuButton: {
-    marginRight: theme.spacing(2),
+    marginRight: "2rem",
   },
     title: {
         flexGrow: 1,
@@ -47,7 +48,7 @@ const useStyles = makeStyles((theme) => ({
     },
     myButtonStyle: {
       alignSelf: 'center',
-      marginTop: 100,
+      marginTop: "10rem",
         marginLeft: theme.spacing(10),
         justifyContent: 'center',
          
